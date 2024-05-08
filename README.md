@@ -1,4 +1,4 @@
-# Solid-Principles-LAB-Assignment
+# Solid Principles LAB Assignment
 
 Improve the following codes to implement SOLID principles in OOP.
 
@@ -55,5 +55,6 @@ Improve the following codes to implement SOLID principles in OOP.
     }
 
 # Solid Principle Diagram
+![SolidPrinciplesLabAssignmentDiagram](https://github.com/HannahCondada/Solid-Principles-LAB-Assignment/assets/142371011/a43c7e5f-fc4b-46c2-b568-66f55d1b17b7)
 
 
